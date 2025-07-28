@@ -80,6 +80,3 @@ A backend-powered mini e-commerce app built using PHP and MySQL.
 ---
 
 **Thanks for visiting my profile!**
-
-
-هل تحب أحول الكلام ده لتنسيق PDF أو CV رسمي جاهز للتقديم؟
